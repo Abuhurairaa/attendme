@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "324644118088",
+    "project_id": "attendme-75736",
+    "storage_bucket": "attendme-75736.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324644118088:android:4032c352eb6f2a8a4b827d",
+        "android_client_info": {
+          "package_name": "com.example.attendme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324644118088-2ts6816ii0hrlpa305hhnolgd1k7vofj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLNX5VUhCSYYIlxB39lP_gDG4gupbQZc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324644118088-2ts6816ii0hrlpa305hhnolgd1k7vofj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
